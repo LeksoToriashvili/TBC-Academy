@@ -1,4 +1,4 @@
-n = int(input("Enter index of fibonacci sequence: "))
+n = int(input("Enter index of sequence: "))
 
 a_1 = 1 #a(-1) is virtual member of sequence at index -1
 a = 0 #a(0) is a first member of sequence
