@@ -1,4 +1,4 @@
-#path of directory where the file is located. e.g. "/home/[username]/Documents/"
+#path of directory where the file is located. e.g."/home/[username]/Documents/"
 path = ""
 filename = "data.txt"
 
